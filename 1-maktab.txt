@@ -1,0 +1,10 @@
+# Nomi	1-umumiy o'rta ta'lim maktabi
+# Ta'lim muassasasining turi	Umumiy ta'lim muassasasi
+# Tashkiliy tizim	Tarkibiy bo‘linma
+# Mulkchilik shakli	Davlat mulki
+# Aholi punkti	Rishton (Rishton tumani, Farg’ona viloyati, O‘zbekiston)
+# Hududiy bo‘ysinish	Rishton tumani (Farg’ona viloyati)
+# Boshqaruvchi tashkilot	Фарғона ВХТБ | Ферганская ОблУНО
+# Ta'lim muassasasini tashkil etish sanasi	30/08/2007
+# Xodimlar	88
+# O‘quvchilar	915
